@@ -51,7 +51,7 @@ formulaire-autofill/
 └── output/                           ← Generated documents saved here (auto-created)
 ```
 
-> **Note:** The Word templates and `database.xlsx` contain proprietary company data and are not included in this repository. To use these tools, provide your own templates and database following the placeholder convention described below.
+> **Note:** The Word templates and `database.xlsx` contain proprietary company data and are not included in this repository. Instead, you will find database-sample.xlsx that shows how the code works without showing the sensitive informations.
 
 ---
 
@@ -146,9 +146,9 @@ Each script is fully self-contained and independent.
 
 **Nadir Belkessam** — Regulatory Affairs Specialist | Word & Excel Automation  
 Ottawa, ON, Canada  
-[LinkedIn](https://linkedin.com/in/nadir-belkessam-491566a4) · [Fiverr](https://fiverr.com)
+[LinkedIn](https://linkedin.com/in/nadir-belkessam-491566a4) · [Fiverr](https://www.fiverr.com/users/nadirvirtualadm/) . [GitHub](https://github.com/Gourdil)
 
----
+--- 
 
 ## License
 
